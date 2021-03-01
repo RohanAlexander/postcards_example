@@ -4,6 +4,7 @@ description: |
   Applied statistics is fun.
 output_dir: "docs"
 theme: postcards.css
+google_analytics: "G-BND3EJVQNQ"
 navbar:
   right:
     - text: "Home"
