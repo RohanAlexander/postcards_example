@@ -1,0 +1,16 @@
+---
+title: "Rohan Alexander"
+image: "alexander-rohan.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/RohanAlexander"
+  - label: GitHub
+    url: "https://github.com/RohanAlexander"
+  - label: Email
+    url: "mailto:rohan.alexander@utoronto.ca"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I am an Assistant Professor in Information and Statistical Sciences (jointly-appointed) at the University of Toronto, Canada. I am a faculty affiliate at the Schwartz Reisman Institute for Technology and Society.
