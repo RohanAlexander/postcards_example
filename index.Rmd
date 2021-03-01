@@ -13,4 +13,4 @@ output:
 site: distill::distill_website
 ---
  
-I am an Assistant Professor in Information and Statistical Sciences (jointly-appointed) at the University of Toronto, Canada. I am a faculty affiliate at the Schwartz Reisman Institute for Technology and Society.
+I am an Assistant Professor in Information and Statistical Sciences (jointly-appointed) at the University of Toronto, Canada. I am a faculty affiliate at the Schwartz Reisman Institute for Technology and Society. And I enjoy statistics.
